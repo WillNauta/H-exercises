@@ -1,4 +1,4 @@
-# H-exerces
+# H-exercise
 Jobs a excersies to Edgar
 
 # Information
